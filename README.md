@@ -1,5 +1,5 @@
 # SWMD-demo
-The applied oscilloscope model was Keysight DSOX2014A. 
+The applied oscilloscope model was Keysight DSOX2014A. Input the address of oscilloscope to connect.
 
 Parameters (Initial period of SWMD signal, system inductance, etc.) need to be measured and input main.py first.
 
